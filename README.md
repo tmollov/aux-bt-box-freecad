@@ -22,4 +22,8 @@ You can find all the STL files in the resources folder. Please note, I'm fairly 
 
 
 # Images
-<img src="https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img1.jpg" width="400">
+<img src="https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img1.jpg" width="300">
+<img src="https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img2.jpg" width="300">
+<img src="https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img3.jpg" width="300">
+<img src="https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img4.jpg" width="300">
+<img src="https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img5.jpg" width="300">
