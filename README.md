@@ -17,3 +17,18 @@ To make this little gadget, I used:
 ### FreeCAD / STL Files
 
 You can find all the STL files in the resources folder. Please note, I'm fairly new to FreeCAD, so apologies for any modeling imperfections.
+
+
+
+
+# Images
+
+[](https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img1.jpg)
+
+[](https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img2.jpg)
+
+[](https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img3.jpg)
+
+[](https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img4.jpg)
+
+[](https://raw.githubusercontent.com/tmollov/aux-bt-box-freecad/main/resources/images/img5.jpg)
