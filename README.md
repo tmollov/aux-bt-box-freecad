@@ -13,6 +13,7 @@ To make this little gadget, I used:
 - **5V 1A USB Micro Type-C Lithium Battery Charging Board**: Charger Module with Protection Dual Functions TP4056 18650. Available on [AliExpress](https://www.aliexpress.com/item/1005001961975062.html).
 
 - **18650 Li-ion Battery**
+- **3D printer**
 
 ### FreeCAD / STL Files
 
